@@ -1,4 +1,6 @@
-﻿absl-py==2.1.0
+setuptools
+distutils
+absl-py==2.1.0
 astunparse==1.6.3
 blinker==1.8.2
 cachetools==5.3.3
