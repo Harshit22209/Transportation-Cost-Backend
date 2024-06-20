@@ -1,3 +1,5 @@
+setuptools
+numpy==1.26.4
 absl-py==2.1.0
 astunparse==1.6.3
 blinker==1.8.2
@@ -27,7 +29,6 @@ MarkupSafe==2.1.5
 mdurl==0.1.2
 ml-dtypes==0.2.0
 namex==0.0.8
-numpy==1.23.2
 oauthlib==3.2.2
 opt-einsum==3.3.0
 optree==0.11.0
