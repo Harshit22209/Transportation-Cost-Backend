@@ -11,7 +11,7 @@ Flask-Cors==4.0.1
 flatbuffers==24.3.25
 gast==0.4.0
 google-auth==2.30.0
-google-auth-oauthlib==1.0.0  # Adjusted version
+google-auth-oauthlib==1.0.0 
 google-pasta==0.2.0
 grpcio==1.64.1
 gunicorn==22.0.0
