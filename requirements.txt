@@ -3,4 +3,4 @@ Flask-Cors==4.0.1
 joblib==1.4.2
 numpy==1.26.4
 pulp==2.8.0
-tensorflow==2.15.0
+tensorflow-cpu==2.15.0
