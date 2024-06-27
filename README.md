@@ -39,8 +39,3 @@ This project involves the development of an optimization tool and machine learni
 - The optimization tool is implemented in Python.
 - The tool determines the optimal distribution of products from warehouses to retailers, minimizing transportation costs.
 
-## Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/transport-cost-optimization.git
