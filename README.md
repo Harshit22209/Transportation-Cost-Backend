@@ -17,8 +17,9 @@ This project involves the development of an optimization tool and machine learni
 
 - **Programming Language**: Python
 - **Machine Learning**: LSTM Model
-- **Optimization**: Linear Programming
+- **Optimization**: Linear Integer Programming
 - **Frontend**: React
+- **Solver**: Pulp
 
 ## Project Details
 
